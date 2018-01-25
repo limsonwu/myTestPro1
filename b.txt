@@ -3,3 +3,5 @@ b file test on github
 
 a new line
 createing a new branch is quick and simple
+
+newl line though gitHub
